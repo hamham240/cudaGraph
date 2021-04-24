@@ -35,6 +35,14 @@ $ cmake --build .
 $ sudo make install
 ```
 
+Uninstallation
+==============
+```bash
+$ cd cudaGraph
+
+$ sudo make uninstall
+```
+
 Example
 =======
 ```cpp
