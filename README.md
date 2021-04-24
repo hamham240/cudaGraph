@@ -67,4 +67,4 @@ Sources
 	* [GeeksforGeeks Detect Cycles in a Directed Graph using BFS](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/#:~:text=Steps%20involved%20in%20detecting%20cycle,of%20visited%20nodes%20as%200.&text=Step%2D3%3A%20Remove%20a%20vertex,of%20visited%20nodes%20by%201.)
 
 * Parallel Bellman-Ford Algorithm
-	* [GeeksforGeeks Bellman-Ford Algorithm]("https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/")
+	* [GeeksforGeeks Bellman-Ford Algorithm](https://www.geeksforgeeks.org/bellman-ford-algorithm-dp-23/)
