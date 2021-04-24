@@ -23,7 +23,7 @@ Installation
 ============
 Run these set of commands in your CLI in the order that they are presented:
 
-```
+```bash
 $ git clone https://github.com/hamham240/cudaGraph.git
 
 $ cd cudaGraph
