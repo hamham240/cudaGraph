@@ -37,7 +37,7 @@ $ sudo make install
 
 Example
 =======
-```
+```cpp
 	#include "cudaGraph/cudaGraph.h"
 	
 	namespace cgl = cudaGraph;
